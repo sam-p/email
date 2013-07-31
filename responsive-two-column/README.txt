@@ -1,0 +1,1 @@
+This is a collection of responsive email templates I've been working on. Thanks to @flcarneiro for all of his help with getting me started.
